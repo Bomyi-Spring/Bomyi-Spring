@@ -10,5 +10,5 @@
 - **Tools & Learning:** FastAPI, PostgreSQL, Git/GitHub, Docker
 
 ## 📝 Learning & Projects
-- **[python-learning](./)**: Daily log on learning Python fundamentals and exception handling
-- **[backend-inventory-project](./)**: A Python backend practice project for inventory management
+- [**[python-learning](./)**](https://github.com/Bomyi-Spring/Python-Learning): Daily log on learning Python fundamentals and exception handling
+- [**[backend-inventory-project](./)**](https://github.com/Bomyi-Spring/Bottling-Stock-System): A Python backend practice project for inventory management
